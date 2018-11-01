@@ -3,11 +3,11 @@ spring:
   profiles:
     active: default
 
-logging:
-  level:
-    root: info
-    com.momo: debug
-  pattern:
+#logging:
+#  level:
+#    root: info
+#    com.momo: debug
+#  pattern:
 #    console: '%clr(%d{yyyy-MM-dd HH:mm:ss:SSS}) [%thread] %-5level %logger- %msg%n'
-  file: app.log
+#  file: app.log
   
